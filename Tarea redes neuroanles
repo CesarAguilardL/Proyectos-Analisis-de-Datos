@@ -1,0 +1,3 @@
+Entrenar una red neuronal que reproduzca para que reproduzca la siguiente funcion en el intervalo de [-1,1]. Graficar la solucion de la red en conjunto con la grafica de la funcion 
+a) 3sin(pix)
+b) 1+2x+4x^3
